@@ -1,5 +1,5 @@
 # 🚀 AI-Powered Predictive Maintenance for IoT Devices
-
+ 
 ## 📌 Project Overview
 This project is an AI-based system that predicts machine failures using IoT sensor data such as **temperature, vibration, and current**.
 

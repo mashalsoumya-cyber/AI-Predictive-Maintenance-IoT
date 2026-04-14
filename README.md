@@ -96,6 +96,13 @@ AI-Predictive-Maintenance-IoT/
 git clone https://github.com/your-username/AI-Predictive-Maintenance-IoT.git
 cd AI-Predictive-Maintenance-IoT
 
+
+
+
+
+
+
+
 ## 📊 Project Outputs
 
 ![Temperature](outputs/failure_vs_temperature.png)

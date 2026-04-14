@@ -86,12 +86,17 @@ AI-Predictive-Maintenance-IoT/
 4. Evaluate performance
 5. Predict failure
 6. Generate graphs
+   ## 📊 Project Outputs
+
+![Temperature](outputs/failure_vs_temperature.png)
+![Vibration](outputs/failure_vs_vibration.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ---
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/AI-Predictive-Maintenance-IoT.git
 cd AI-Predictive-Maintenance-IoT
@@ -103,8 +108,4 @@ cd AI-Predictive-Maintenance-IoT
 
 
 
-## 📊 Project Outputs
 
-![Temperature](outputs/failure_vs_temperature.png)
-![Vibration](outputs/failure_vs_vibration.png)
-![Confusion Matrix](outputs/confusion_matrix.png)
